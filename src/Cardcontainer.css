@@ -1,0 +1,21 @@
+/* styles.css */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .card {
+    width: calc(50% - 10px); /* Adjust as needed */
+    height:350px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .card img {
+    max-width: 200%;
+    height: 150px;
+  }
+  

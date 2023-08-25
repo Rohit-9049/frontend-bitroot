@@ -1,0 +1,22 @@
+.desc{
+font-size: small;
+}
+
+.title{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.bottom{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;   
+}
+
+.row{
+    display:flex;
+    margin-top: 50px;
+    flex-direction: row;
+    justify-content: space-between;     
+}
